@@ -1,2 +1,2 @@
 import './style.css'
-import './timer.js';
+import './js/timer.js';
